@@ -1,0 +1,5 @@
+- What is a TF-IDF vector?
+Term Frequency- Inverse Document Frequency. TF-IDF vector is a technique for text vectorization based on the Bag of words model 
+with the addition of considering the importance of a given term in the text at hand.
+A term is said to be importance (has a high importance score) when it occurs a lot in the given text and a little in other texts.
+Hence, to get the TF-IDF of a term the TF score is multiplied by the IDF score.
