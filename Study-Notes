@@ -3,3 +3,13 @@ Term Frequency- Inverse Document Frequency. TF-IDF vector is a technique for tex
 with the addition of considering the importance of a given term in the text at hand.
 A term is said to be importance (has a high importance score) when it occurs a lot in the given text and a little in other texts.
 Hence, to get the TF-IDF of a term the TF score is multiplied by the IDF score.
+TF-IDF scores are stored in the tfidf matrix
+- Cosine Similarity:
+It is a measure of how close (angle-wise) two vectors, in this context maps of two sentences for example, are.
+It is computed by dividing the inner product (dot product) of the two vectors by the product of their lengths.
+It ranges from -1 to 1, with higher values representing more similar vectors.
+Similarity distance = 1 - cosine similarity
+- Topics to learn:
+* Hierarchical Clustering
+* Linkage, complete 
+* Dendrogram
