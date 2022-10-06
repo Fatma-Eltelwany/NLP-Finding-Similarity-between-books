@@ -11,5 +11,6 @@ It ranges from -1 to 1, with higher values representing more similar vectors.
 Similarity distance = 1 - cosine similarity
 - Topics to learn:
 * Hierarchical Clustering
-* Linkage, complete 
+* Linkage matrix/function
 * Dendrogram
+*Evaluation of clustring algorithims
